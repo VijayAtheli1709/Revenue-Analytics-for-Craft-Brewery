@@ -198,7 +198,7 @@ brewery-revenue-analysis/
 ![image](https://github.com/user-attachments/assets/a311f079-bbcf-456e-9635-2be8fa066c64)
 
 - Feature importance rankings from machine learning models
-![Figure 2025-06-07 205502](https://github.com/user-attachments/assets/80d7447a-8d64-46cd-9fc5-0092d4abd6ac)
+![image](https://github.com/user-attachments/assets/eeeb1943-6b81-47f2-a7b1-9bb0b0541030)
 
 ---
 
