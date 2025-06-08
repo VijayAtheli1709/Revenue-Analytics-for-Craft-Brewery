@@ -112,21 +112,19 @@ This project analyzes transaction records from Ledge Brewing Co., a craft brewer
 ## Repository Structure
 
 ```
-brewery-revenue-analysis/
-├── data/
-│   ├── Transactions_Weather_Merged.xlsx
-│   ├── Transactions_Weather_Merged (1).xlsx
-│   ├── Boston_hourly_weather.xlsx
-│   ├── df_hourly_north_conway.xlsx
-│   ├── live-music-data-v1.xlsx
-│   └── enhanced_revenue_analysis.xlsx
-├── analysis/
-│   ├── 01_baseline_north_conway_weather_analysis.py
-│   ├── 02_boston_weather_analysis_with_visualizations.py
-│   ├── 03_comparative_analysis_north_conway_vs_boston.py
-│   ├── 04_final_comprehensive_weather_revenue_analysis.py
-|   ├── Revenue Analysis with Music.py
-|   ├── Revenue Analysis with Weather and Music.py
+Revenue-Analytics-for-Brewery/
+├── Transactions_Weather_Merged.xlsx
+├── Transactions_Weather_Merged (1).xlsx
+├── Boston_hourly_weather.xlsx
+├── df_hourly_north_conway.xlsx
+├── live-music-data-v1.xlsx
+└── enhanced_revenue_analysis.xlsx
+├── North Conway Weather Revenue Analysis.py
+├── Boston Weather Revenue Analysis with Comprehensive Visualizations.py
+├── Comparative Analysis North Conway vs Boston Weather.py
+├── Final Comprehensive Weather Revenue Analysis.py
+├── Revenue Analysis with Music.py
+├── Revenue Analysis with Weather and Music.py
 └── README.md
 ```
 
