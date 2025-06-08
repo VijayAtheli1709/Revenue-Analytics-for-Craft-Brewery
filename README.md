@@ -8,7 +8,7 @@
 
 ## Project Overview
 
-This project analyzes **49,866 transaction records** from Ledge Brewing Co., a craft brewery in North Conway, New Hampshire, to understand how live music events and weather conditions influence daily revenue. Using multiple machine learning models and statistical analysis, we quantify the financial impact of entertainment programming and weather patterns on customer behavior.
+This project analyzes transaction records from Ledge Brewing Co., a craft brewery in North Conway, New Hampshire, to understand how live music events and weather conditions influence daily revenue. Using multiple machine learning models and statistical analysis, we quantify the financial impact of entertainment programming and weather patterns on customer behavior.
 
 ### Key Research Questions
 
@@ -41,7 +41,8 @@ This project analyzes **49,866 transaction records** from Ledge Brewing Co., a c
 - **Snow conditions** significantly decrease revenue (-$80.41 per hour)
 - **Sunny weather** shows modest positive impact (+$16.49 per hour)
 
-![image](https://github.com/user-attachments/assets/37622635-b4b5-491a-8f0f-dcb22ab346d0)
+![image](https://github.com/user-attachments/assets/f2e38401-a2ac-4de1-a55f-4b2ec318213b)
+
 
 ### Artist Performance Analysis
 - **Band M017**: Most active performer (24 Friday shows) - reliable Friday draw
